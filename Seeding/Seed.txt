@@ -1,0 +1,3 @@
+mongo 127.0.0.1:
+use TavssCourse
+db.createCollection('TAVSS')
